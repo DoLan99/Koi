@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/va9F4kzIxd1KFrjDY8Z_.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/va9I4kzIxd1KFoBv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/va9F4kzIxd1KFrjTZMZ_.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../fonts/va9F4kzIxd1KFrjrZsZ_.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/VdGGAZweH5EbgHY6YExcZfDoj0BA2w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/VdGDAZweH5EbgHY6YExcZfDoj0B4L9am5A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/VdGDAZweH5EbgHY6YExcZfDoj0B4A9Gm5A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/VdGDAZweH5EbgHY6YExcZfDoj0B4Z9Cm5A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../fonts/VdGDAZweH5EbgHY6YExcZfDoj0B4e9Om5A.ttf) format('truetype');
+}
